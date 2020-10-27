@@ -1,0 +1,25 @@
+ x = int(input("Input a number: ))
+ y = int(input("Input a number: ))
+ z = int(input("Input a number: ))
+ a = int(input("Input a number: ))
+ b = int(input("Input a number: ))
+ 
+ list = [x, y, z, a, b, ]
+ 
+if list(0) > 5:
+  print(list(0))
+ 
+else:
+  print(not printed)
+  
+if list(1) > 5:
+  print(list(0))
+ 
+else:
+  print(not printed)
+  
+if list(2) > 5:
+  print(list(0))
+ 
+else:
+  print(not printed)
